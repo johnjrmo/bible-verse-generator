@@ -1,0 +1,10 @@
+.DS_Store
+.gradle/
+**/build/
+.idea/
+local.properties
+google-services.json
+*-firebase-adminsdk-*.json
+*.dmg
+*.jks
+*.keystore
